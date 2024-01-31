@@ -4,8 +4,6 @@ In this project, I have performed data analysis and create dashboard using Excel
 
 Utilizing a Kaggle dataset, I performed comprehensive data analysis, transformation, and extraction in Excel. 
 Employing diverse visualization tools, I constructed interactive dashboards featuring slicers for area-wise casualties, a dynamic timeline for year/month/quarterly casualties, and diverse charts such as KPIs, donut charts, and bar charts. 
-This facilitated a succinct yet insightful summary of the dataset, enhancing the accessibility and comprehension of key metrics for more informed decision-making.
-Certainly, let's break down the data and create a detailed analysis report based on the provided information.
 
 ### 1. Casualties by Area Type:
 
@@ -94,5 +92,3 @@ Certainly, let's break down the data and create a detailed analysis report based
   - Serious: 5,000
   - Slight: 30,000
   - **Insight:** Single carriageways have more casualties across all severity levels.
-
-This detailed analysis provides a comprehensive understanding of the casualty patterns, helping in making informed decisions for road safety measures.
